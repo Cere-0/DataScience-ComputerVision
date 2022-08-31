@@ -4,7 +4,9 @@ Portafolio del curso especializado de Innovaccion 7 edicion.
 
 ###### Computer Vision in Azure.
 [Link to the notebook and code](https://github.com/AlejandroReyesCere0/DataScience-Innovaccion/blob/main/LabsAI.ipynb)
-##### Examples:
+
+More output images in the Output folder.
+### Examples:
 
 #### Input
 <img src="https://github.com/Cere-0/DataScience-ComputerVision/blob/main/input/store-camera-1.jpg" width=50% height=50%>
